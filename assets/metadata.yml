@@ -1,0 +1,14 @@
+---
+title:
+- type: main
+  text: Wicked Fast Websites
+- type: subtitle
+  text: How to build WordPress sites that load in under 1 second.
+creator:
+- role: author
+  text: Chris Ferdinandi
+publisher:  Go Make Things, LLC
+date: v2.0.0
+rights: Copyright 2016 Chris Ferdinandi, All Rights Reserved
+cover-image: assets/cover.png
+---
