@@ -101,7 +101,7 @@ In the example below, visitors on browsers that support SVG will see a Twitter i
 
 The WordPress Media Uploader does not allow SVGs, and TinyMCE can strip them out, too.
 
-WordPress SVG^[[https://github.com/cferdinandi/wordpress-svg](https://github.com/cferdinandi/wordpress-svg)] is a plugin I maintain on GitHub that enables SVG uploads in the WordPress Media Uploader. It also adds a shortcode you can use to inline your uploaded SVG files and pass in classes.
+WordPress SVG^[[https://github.com/cferdinandi/gmt-wordpress-svg](https://github.com/cferdinandi/gmt-wordpress-svg)] is a plugin I maintain on GitHub that enables SVG uploads in the WordPress Media Uploader. It also adds a shortcode you can use to inline your uploaded SVG files and pass in classes.
 
 ## Optimize your SVGs
 

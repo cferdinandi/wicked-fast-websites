@@ -17,7 +17,7 @@ Firefox reduced their page load time by 2.2 seconds and saw downloads increase b
 
 ## Sites are getting bigger
 
-In 2010, the average webpage was 600kb in size. At the beginning of 2013, that number had doubled to 1.2mb. At the beginning of 2016, the average website had ballooned to 2.2mb in size[[http://httparchive.org/interesting.php](http://httparchive.org/interesting.php)]. The average website has doubled in size every three years for the last six years.
+In 2010, the average webpage was 600kb in size. At the beginning of 2013, that number had doubled to 1.2mb. At the beginning of 2016, the average website had ballooned to 2.2mb in size^[[http://httparchive.org/interesting.php](http://httparchive.org/interesting.php)]. The average website has doubled in size every three years for the last six years.
 
 For a while, this exponential growth wasn't a problem. We took for granted that both computers and bandwidth got faster and more reliable every year.
 
