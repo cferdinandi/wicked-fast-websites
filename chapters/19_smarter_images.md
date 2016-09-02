@@ -50,6 +50,6 @@ This means that you could optimize a photo, upload to WordPress, and come out wi
 
 In version 4.5, WordPress increased their compression rate to 82, which is better, but still not aggressive enough for the web.
 
-Image Compress and Sharpen^[[https://github.com/cferdinandi/image-compress-and-sharpen](https://github.com/cferdinandi/image-compress-and-sharpen)] is a plugin I maintain on GitHub that lets you adjust the default compression rate in WordPress. It also converts JPGs to the progressive format.
+Image Compress and Sharpen^[[https://github.com/cferdinandi/gmt-image-compress-and-sharpen](https://github.com/cferdinandi/gmt-image-compress-and-sharpen)] is a plugin I maintain on GitHub that lets you adjust the default compression rate in WordPress. It also converts JPGs to the progressive format.
 
 If you'd like to recompress a bunch of existing images on your site, you can install one of the many thumbnail recreation plugins that exist. They'll recreate all of your resized images with the new compression settings.

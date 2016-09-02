@@ -6,6 +6,6 @@ By Chris Ferdinandi
 
 Go Make Things, LLC
 
-v2.0.0
+v2.0.1
 
 Copyright 2016 Chris Ferdinandi, All Rights Reserved
